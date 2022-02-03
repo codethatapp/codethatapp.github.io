@@ -1,10 +1,10 @@
-baseURL = "https://codethatapp.github.io/"
+baseURL = "https://codethatapp.co/"
 languageCode = "en-us"
 title = "codethatapp"
 theme = "ezhil"
 paginate = 8
 
-copyright = "© mlblogg"
+copyright = "© codethatapp"
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
@@ -58,12 +58,12 @@ weight = 6
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/mlblogg"
+url = "https://github.com/codethatapp"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/mlblogg"
+url = "https://twitter.com/codethatapp"
 
 
 # [[params.social]]
