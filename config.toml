@@ -1,4 +1,4 @@
-baseURL = "http://codethatapp.github.io/"
+baseURL = "https://affectionate-hoover-af47e5.netlify.app"
 languageCode = "en-us"
 title = "codethatapp"
 theme = "ezhil"
