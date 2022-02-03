@@ -1,4 +1,4 @@
-baseURL = "http://codethatapp..github.io/"
+baseURL = "http://codethatapp.github.io/"
 languageCode = "en-us"
 title = "codethatapp"
 theme = "ezhil"
